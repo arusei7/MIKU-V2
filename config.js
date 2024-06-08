@@ -3,13 +3,13 @@ const chalk = require("chalk")
 
 global.available = true
 global.autoReadGc = true
-global.autoReadAll = false
+global.autoReadAll = true
 global.antitags = true
 
 
-global.Owner = ['919536476115']
-global.OwnerNumber = ['919536476115']
-global.ownertag = ['919536476115']
+global.Owner = ['254115530969']
+global.OwnerNumber = ['254115530969']
+global.ownertag = ['254115530969']
 global.BotName = "𝑴𝑰𝑲𝑼-𝑽2"
 global.packname = "𝑴𝑰𝑲𝑼-𝑽2"
 global.author = "𝑩𝒀 - 𝑪𝑯𝑰𝑹𝑨𝑮 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹"
@@ -20,7 +20,7 @@ global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['#'] 
+global.prefa = ['.'] 
 
 
 global.location = "UTTRAKHAND, India"
